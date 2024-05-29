@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @varsha..
-- 👀 "Eager to expand my knowledge and skill set through continuous learning."
-- 🌱 I’m currently learning c,html,java...
-- 💞️ I’m looking to collaborate on ... any projects related to c,cloud,iot...
 - 📫 How to reach me ...varsha.anubolu@gmail.com 
 
 <!---
